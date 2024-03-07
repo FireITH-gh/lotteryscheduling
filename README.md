@@ -7,7 +7,11 @@ Instructions: The program will ask the user to initialize the queue with a numbe
 After initialization, the user will be brought to the main menu, where they will have the following options:
 
   1: Add more processes
+  
   2: Add more tickets
+  
   3: Run the lottery
+  
   4: Add tickets to a specific process
+  
   5: Exit
